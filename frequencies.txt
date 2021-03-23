@@ -1,0 +1,6 @@
+fuzzy 53
+wuzzy 42
+was 23
+a 6
+bear 65
+
